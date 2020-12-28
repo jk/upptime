@@ -6,6 +6,8 @@ repo: upptime # Your GitHub repository name
 sites:
   - name: kohl.dev
     url: https://kohl.dev
+  - name: Blog
+    url: https://blog.kohl.dev
   - name: FreshRSS
     url: https://freshrss.kohl.dev
   - name: Covid Gießen
