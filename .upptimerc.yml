@@ -4,14 +4,14 @@ repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: jkohl.com
-    url: https://jkohl.com
   - name: kohl.dev
     url: https://kohl.dev
   - name: FreshRSS
     url: https://freshrss.kohl.dev
   - name: Covid Gießen
     url: https://covid-gi.kohl.dev
+  - name: Nexus Artifact Registry
+    url: https://nexus.kohl.dev
   - name: Paperless
     url: https://paperless.kohl.dev
   - name: Wiki
