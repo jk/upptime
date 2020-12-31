@@ -21,6 +21,15 @@ sites:
   - name: Etherpad lite
     url: https://pad.kohl.dev
 
+workflowSchedule:
+  graphs: "0 */30 * * *"
+  responseTime: "0 */30 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 */30 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"
+
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
