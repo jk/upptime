@@ -20,6 +20,8 @@ sites:
     url: https://wiki.kohl.dev
   - name: Etherpad lite
     url: https://pad.kohl.dev
+  - name: Kroki API
+    url: https://kroki.kohl.dev
 
 workflowSchedule:
   graphs: "0 */30 * * *"
