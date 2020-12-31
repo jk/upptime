@@ -94,18 +94,20 @@
     "url": "https://paperless.kohl.dev",
     "icon": "https://favicons.githubusercontent.com/paperless.kohl.dev",
     "slug": "paperless",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 600,
-    "timeDay": 572,
-    "timeWeek": 600,
-    "timeMonth": 600,
-    "timeYear": 600,
-    "dailyMinutesDown": {}
+    "time": 598,
+    "timeDay": 570,
+    "timeWeek": 598,
+    "timeMonth": 598,
+    "timeYear": 598,
+    "dailyMinutesDown": {
+      "2020-12-31": 0
+    }
   },
   {
     "name": "Wiki",
