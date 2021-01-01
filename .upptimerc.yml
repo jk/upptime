@@ -22,6 +22,8 @@ sites:
     url: https://pad.kohl.dev
   - name: Kroki API
     url: https://kroki.kohl.dev
+  - name: Social Analyzer
+    url: https://social-analyzer.kohl.dev
 
 workflowSchedule:
   graphs: "0 */30 * * *"
