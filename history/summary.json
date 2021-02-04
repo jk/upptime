@@ -181,19 +181,19 @@
     "url": "https://links.kohl.dev",
     "icon": "https://favicons.githubusercontent.com/links.kohl.dev",
     "slug": "link-ace",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 997,
-    "timeDay": 1002,
-    "timeWeek": 1100,
-    "timeMonth": 1041,
-    "timeYear": 997,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "98.12%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 1013,
+    "timeDay": 1190,
+    "timeWeek": 1151,
+    "timeMonth": 1057,
+    "timeYear": 1013,
     "dailyMinutesDown": {
-      "2021-02-04": 0
+      "2021-02-04": 27
     }
   }
 ]
