@@ -32,7 +32,7 @@ workflowSchedule:
   summary: "0 */30 * * *"
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
-  uptime: "*/5 * * * *"
+  uptime: "*/15 * * * *"
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
