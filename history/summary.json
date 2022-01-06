@@ -10,14 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 651,
-    "timeDay": 641,
-    "timeWeek": 558,
-    "timeMonth": 637,
+    "time": 652,
+    "timeDay": 744,
+    "timeWeek": 602,
+    "timeMonth": 636,
     "timeYear": 664,
-    "dailyMinutesDown": {
-      "2021-01-06": 32
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Blog",
@@ -31,13 +29,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 623,
-    "timeDay": 780,
-    "timeWeek": 607,
-    "timeMonth": 605,
+    "timeDay": 757,
+    "timeWeek": 658,
+    "timeMonth": 611,
     "timeYear": 631,
-    "dailyMinutesDown": {
-      "2021-01-06": 32
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "FreshRSS",
@@ -50,14 +46,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 604,
-    "timeDay": 645,
-    "timeWeek": 565,
-    "timeMonth": 596,
-    "timeYear": 615,
-    "dailyMinutesDown": {
-      "2021-01-06": 31
-    }
+    "time": 605,
+    "timeDay": 788,
+    "timeWeek": 615,
+    "timeMonth": 603,
+    "timeYear": 616,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Covid Gießen",
@@ -65,18 +59,19 @@
     "icon": "https://favicons.githubusercontent.com/covid-gi.kohl.dev",
     "slug": "covid-giessen",
     "status": "down",
-    "uptime": "52.66%",
+    "uptime": "52.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "51.67%",
-    "time": 949,
-    "timeDay": 569,
-    "timeWeek": 545,
-    "timeMonth": 565,
-    "timeYear": 946,
+    "uptimeYear": "51.40%",
+    "time": 948,
+    "timeDay": 541,
+    "timeWeek": 552,
+    "timeMonth": 564,
+    "timeYear": 945,
     "dailyMinutesDown": {
-      "2022-01-05": 57,
+      "2022-01-06": 61,
+      "2022-01-05": 1440,
       "2022-01-04": 1440,
       "2022-01-03": 1440,
       "2022-01-02": 1440,
@@ -255,8 +250,7 @@
       "2021-07-13": 1440,
       "2021-07-12": 414,
       "2021-03-19": 30,
-      "2021-03-18": 41,
-      "2021-01-06": 31
+      "2021-03-18": 41
     }
   },
   {
@@ -265,18 +259,19 @@
     "icon": "https://favicons.githubusercontent.com/nexus.kohl.dev",
     "slug": "nexus-artifact-registry",
     "status": "down",
-    "uptime": "63.93%",
+    "uptime": "63.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "63.17%",
+    "uptimeYear": "62.90%",
     "time": 586,
-    "timeDay": 559,
-    "timeWeek": 500,
-    "timeMonth": 580,
-    "timeYear": 595,
+    "timeDay": 771,
+    "timeWeek": 560,
+    "timeMonth": 587,
+    "timeYear": 596,
     "dailyMinutesDown": {
-      "2022-01-05": 57,
+      "2022-01-06": 61,
+      "2022-01-05": 1440,
       "2022-01-04": 1440,
       "2022-01-03": 1440,
       "2022-01-02": 1440,
@@ -411,8 +406,7 @@
       "2021-08-26": 1440,
       "2021-08-25": 1440,
       "2021-08-24": 1440,
-      "2021-08-23": 524,
-      "2021-01-06": 30
+      "2021-08-23": 524
     }
   },
   {
@@ -427,13 +421,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 717,
-    "timeDay": 825,
-    "timeWeek": 742,
+    "timeDay": 756,
+    "timeWeek": 787,
     "timeMonth": 737,
-    "timeYear": 730,
+    "timeYear": 731,
     "dailyMinutesDown": {
-      "2021-02-22": 26,
-      "2021-01-06": 30
+      "2021-02-22": 26
     }
   },
   {
@@ -448,9 +441,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 635,
-    "timeDay": 630,
-    "timeWeek": 611,
-    "timeMonth": 621,
+    "timeDay": 691,
+    "timeWeek": 639,
+    "timeMonth": 623,
     "timeYear": 643,
     "dailyMinutesDown": {}
   },
@@ -460,18 +453,19 @@
     "icon": "https://favicons.githubusercontent.com/pad.kohl.dev",
     "slug": "etherpad-lite",
     "status": "down",
-    "uptime": "63.94%",
+    "uptime": "63.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "63.18%",
+    "uptimeYear": "62.91%",
     "time": 572,
-    "timeDay": 561,
-    "timeWeek": 586,
+    "timeDay": 553,
+    "timeWeek": 621,
     "timeMonth": 538,
     "timeYear": 581,
     "dailyMinutesDown": {
-      "2022-01-05": 57,
+      "2022-01-06": 62,
+      "2022-01-05": 1440,
       "2022-01-04": 1440,
       "2022-01-03": 1440,
       "2022-01-02": 1440,
@@ -615,18 +609,19 @@
     "icon": "https://favicons.githubusercontent.com/kroki.kohl.dev",
     "slug": "kroki-api",
     "status": "down",
-    "uptime": "63.62%",
+    "uptime": "63.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "63.18%",
-    "time": 726,
-    "timeDay": 577,
-    "timeWeek": 543,
-    "timeMonth": 571,
+    "uptimeYear": "62.91%",
+    "time": 725,
+    "timeDay": 560,
+    "timeWeek": 562,
+    "timeMonth": 569,
     "timeYear": 726,
     "dailyMinutesDown": {
-      "2022-01-05": 57,
+      "2022-01-06": 62,
+      "2022-01-05": 1440,
       "2022-01-04": 1440,
       "2022-01-03": 1440,
       "2022-01-02": 1440,
@@ -776,10 +771,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1441,
-    "timeDay": 1549,
-    "timeWeek": 1492,
-    "timeMonth": 1596,
-    "timeYear": 1449,
+    "timeDay": 1705,
+    "timeWeek": 1574,
+    "timeMonth": 1593,
+    "timeYear": 1451,
     "dailyMinutesDown": {
       "2021-08-08": 38,
       "2021-02-04": 27
