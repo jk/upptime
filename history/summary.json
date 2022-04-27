@@ -70,7 +70,7 @@
     "timeMonth": 605,
     "timeYear": 743,
     "dailyMinutesDown": {
-      "2022-04-27": 505,
+      "2022-04-27": 525,
       "2022-04-26": 1440,
       "2022-04-25": 1440,
       "2022-04-24": 1440,
@@ -372,14 +372,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "32.41%",
+    "uptimeYear": "32.40%",
     "time": 581,
     "timeDay": 746,
     "timeWeek": 594,
     "timeMonth": 583,
     "timeYear": 585,
     "dailyMinutesDown": {
-      "2022-04-27": 505,
+      "2022-04-27": 525,
       "2022-04-26": 1440,
       "2022-04-25": 1440,
       "2022-04-24": 1440,
@@ -634,19 +634,19 @@
     "url": "https://paperless.kohl.dev",
     "icon": "https://favicons.githubusercontent.com/paperless.kohl.dev",
     "slug": "paperless",
-    "status": "down",
+    "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.58%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 723,
-    "timeDay": 674,
-    "timeWeek": 776,
-    "timeMonth": 746,
-    "timeYear": 740,
+    "time": 724,
+    "timeDay": 682,
+    "timeWeek": 767,
+    "timeMonth": 744,
+    "timeYear": 739,
     "dailyMinutesDown": {
-      "2022-04-27": 0
+      "2022-04-27": 21
     }
   },
   {
@@ -684,7 +684,7 @@
     "timeMonth": 536,
     "timeYear": 566,
     "dailyMinutesDown": {
-      "2022-04-27": 505,
+      "2022-04-27": 526,
       "2022-04-26": 1440,
       "2022-04-25": 1440,
       "2022-04-24": 1440,
@@ -951,7 +951,7 @@
     "timeMonth": 488,
     "timeYear": 617,
     "dailyMinutesDown": {
-      "2022-04-27": 505,
+      "2022-04-27": 526,
       "2022-04-26": 1440,
       "2022-04-25": 1440,
       "2022-04-24": 1440,
