@@ -9,15 +9,14 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.86%",
-    "time": 583,
-    "timeDay": 710,
-    "timeWeek": 519,
-    "timeMonth": 536,
-    "timeYear": 574,
+    "uptimeYear": "99.88%",
+    "time": 584,
+    "timeDay": 573,
+    "timeWeek": 516,
+    "timeMonth": 537,
+    "timeYear": 549,
     "dailyMinutesDown": {
-      "2022-11-11": 124,
-      "2022-06-05": 571
+      "2022-11-11": 124
     }
   },
   {
@@ -31,14 +30,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 547,
-    "timeDay": 448,
-    "timeWeek": 467,
-    "timeMonth": 516,
+    "time": 546,
+    "timeDay": 405,
+    "timeWeek": 445,
+    "timeMonth": 510,
     "timeYear": 534,
     "dailyMinutesDown": {
-      "2022-11-11": 123,
-      "2022-06-05": 468
+      "2022-11-11": 123
     }
   },
   {
@@ -51,15 +49,14 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.88%",
+    "uptimeYear": "99.89%",
     "time": 534,
-    "timeDay": 689,
-    "timeWeek": 503,
-    "timeMonth": 525,
-    "timeYear": 522,
+    "timeDay": 588,
+    "timeWeek": 505,
+    "timeMonth": 527,
+    "timeYear": 521,
     "dailyMinutesDown": {
-      "2022-11-11": 123,
-      "2022-06-05": 468
+      "2022-11-11": 123
     }
   },
   {
@@ -68,18 +65,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/covid-gi.kohl.dev.ico",
     "slug": "covid-giessen",
     "status": "down",
-    "uptime": "22.11%",
+    "uptime": "22.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 521,
-    "timeDay": 471,
-    "timeWeek": 464,
-    "timeMonth": 508,
+    "timeDay": 537,
+    "timeWeek": 457,
+    "timeMonth": 507,
     "timeYear": 508,
     "dailyMinutesDown": {
-      "2023-06-04": 101,
+      "2023-06-05": 80,
+      "2023-06-04": 1440,
       "2023-06-03": 1440,
       "2023-06-02": 1440,
       "2023-06-01": 1440,
@@ -442,8 +440,7 @@
       "2022-06-09": 1440,
       "2022-06-08": 1440,
       "2022-06-07": 1440,
-      "2022-06-06": 1440,
-      "2022-06-05": 1440
+      "2022-06-06": 1440
     }
   },
   {
@@ -452,18 +449,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/nexus.kohl.dev.ico",
     "slug": "nexus-artifact-registry",
     "status": "down",
-    "uptime": "26.84%",
+    "uptime": "26.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 540,
-    "timeDay": 480,
-    "timeWeek": 453,
-    "timeMonth": 492,
-    "timeYear": 543,
+    "timeDay": 588,
+    "timeWeek": 454,
+    "timeMonth": 493,
+    "timeYear": 544,
     "dailyMinutesDown": {
-      "2023-06-04": 101,
+      "2023-06-05": 80,
+      "2023-06-04": 1440,
       "2023-06-03": 1440,
       "2023-06-02": 1440,
       "2023-06-01": 1440,
@@ -826,8 +824,7 @@
       "2022-06-09": 1440,
       "2022-06-08": 1440,
       "2022-06-07": 1440,
-      "2022-06-06": 1440,
-      "2022-06-05": 1440
+      "2022-06-06": 1440
     }
   },
   {
@@ -840,15 +837,14 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.75%",
+    "uptimeYear": "99.84%",
     "time": 687,
-    "timeDay": 627,
-    "timeWeek": 543,
+    "timeDay": 694,
+    "timeWeek": 553,
     "timeMonth": 627,
-    "timeYear": 684,
+    "timeYear": 626,
     "dailyMinutesDown": {
-      "2022-11-11": 121,
-      "2022-06-05": 787
+      "2022-11-11": 121
     }
   },
   {
@@ -861,15 +857,14 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.88%",
-    "time": 558,
-    "timeDay": 541,
-    "timeWeek": 496,
+    "uptimeYear": "99.89%",
+    "time": 557,
+    "timeDay": 434,
+    "timeWeek": 472,
     "timeMonth": 503,
-    "timeYear": 544,
+    "timeYear": 543,
     "dailyMinutesDown": {
-      "2022-11-11": 121,
-      "2022-06-05": 466
+      "2022-11-11": 121
     }
   },
   {
@@ -878,18 +873,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pad.kohl.dev.ico",
     "slug": "etherpad-lite",
     "status": "down",
-    "uptime": "26.84%",
+    "uptime": "26.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 471,
-    "timeDay": 457,
-    "timeWeek": 407,
-    "timeMonth": 475,
+    "timeDay": 583,
+    "timeWeek": 431,
+    "timeMonth": 482,
     "timeYear": 462,
     "dailyMinutesDown": {
-      "2023-06-04": 101,
+      "2023-06-05": 80,
+      "2023-06-04": 1440,
       "2023-06-03": 1440,
       "2023-06-02": 1440,
       "2023-06-01": 1440,
@@ -1252,8 +1248,7 @@
       "2022-06-09": 1440,
       "2022-06-08": 1440,
       "2022-06-07": 1440,
-      "2022-06-06": 1440,
-      "2022-06-05": 1440
+      "2022-06-06": 1440
     }
   },
   {
@@ -1262,18 +1257,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/kroki.kohl.dev.ico",
     "slug": "kroki-api",
     "status": "down",
-    "uptime": "26.58%",
+    "uptime": "26.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 459,
-    "timeDay": 468,
-    "timeWeek": 423,
+    "timeDay": 410,
+    "timeWeek": 401,
     "timeMonth": 461,
-    "timeYear": 450,
+    "timeYear": 449,
     "dailyMinutesDown": {
-      "2023-06-04": 101,
+      "2023-06-05": 80,
+      "2023-06-04": 1440,
       "2023-06-03": 1440,
       "2023-06-02": 1440,
       "2023-06-01": 1440,
@@ -1636,8 +1632,7 @@
       "2022-06-09": 1440,
       "2022-06-08": 1440,
       "2022-06-07": 1440,
-      "2022-06-06": 1440,
-      "2022-06-05": 1440
+      "2022-06-06": 1440
     }
   },
   {
@@ -1650,16 +1645,15 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.86%",
-    "time": 1355,
-    "timeDay": 1085,
-    "timeWeek": 924,
-    "timeMonth": 1015,
-    "timeYear": 1265,
+    "uptimeYear": "99.88%",
+    "time": 1354,
+    "timeDay": 1046,
+    "timeWeek": 912,
+    "timeMonth": 1013,
+    "timeYear": 1262,
     "dailyMinutesDown": {
       "2022-12-19": 19,
-      "2022-11-11": 120,
-      "2022-06-05": 570
+      "2022-11-11": 120
     }
   }
 ]
