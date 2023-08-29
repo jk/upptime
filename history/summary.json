@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 568,
-    "timeDay": 340,
-    "timeWeek": 489,
+    "timeDay": 744,
+    "timeWeek": 535,
     "timeMonth": 556,
-    "timeYear": 543,
+    "timeYear": 544,
     "dailyMinutesDown": {
       "2022-11-11": 124
     }
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 534,
-    "timeDay": 422,
-    "timeWeek": 523,
-    "timeMonth": 557,
-    "timeYear": 532,
+    "timeDay": 573,
+    "timeWeek": 548,
+    "timeMonth": 559,
+    "timeYear": 533,
     "dailyMinutesDown": {
       "2022-11-11": 123
     }
@@ -51,10 +51,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 522,
-    "timeDay": 429,
-    "timeWeek": 492,
+    "timeDay": 732,
+    "timeWeek": 536,
     "timeMonth": 541,
-    "timeYear": 519,
+    "timeYear": 520,
     "dailyMinutesDown": {
       "2022-11-11": 123
     }
@@ -65,18 +65,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/covid-gi.kohl.dev.ico",
     "slug": "covid-giessen",
     "status": "down",
-    "uptime": "20.18%",
+    "uptime": "20.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 510,
-    "timeDay": 463,
-    "timeWeek": 536,
+    "time": 511,
+    "timeDay": 732,
+    "timeWeek": 574,
     "timeMonth": 551,
     "timeYear": 511,
     "dailyMinutesDown": {
-      "2023-08-28": 58,
+      "2023-08-29": 58,
+      "2023-08-28": 1440,
       "2023-08-27": 1440,
       "2023-08-26": 1440,
       "2023-08-25": 1440,
@@ -439,8 +440,7 @@
       "2022-09-02": 1440,
       "2022-09-01": 1440,
       "2022-08-31": 1440,
-      "2022-08-30": 1440,
-      "2022-08-29": 1440
+      "2022-08-30": 1440
     }
   },
   {
@@ -449,18 +449,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/nexus.kohl.dev.ico",
     "slug": "nexus-artifact-registry",
     "status": "down",
-    "uptime": "24.49%",
+    "uptime": "24.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 532,
-    "timeDay": 425,
-    "timeWeek": 486,
-    "timeMonth": 501,
-    "timeYear": 542,
+    "timeDay": 728,
+    "timeWeek": 525,
+    "timeMonth": 509,
+    "timeYear": 543,
     "dailyMinutesDown": {
-      "2023-08-28": 58,
+      "2023-08-29": 58,
+      "2023-08-28": 1440,
       "2023-08-27": 1440,
       "2023-08-26": 1440,
       "2023-08-25": 1440,
@@ -823,8 +824,7 @@
       "2022-09-02": 1440,
       "2022-09-01": 1440,
       "2022-08-31": 1440,
-      "2022-08-30": 1440,
-      "2022-08-29": 1440
+      "2022-08-30": 1440
     }
   },
   {
@@ -833,18 +833,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/paperless.kohl.dev.ico",
     "slug": "paperless",
     "status": "down",
-    "uptime": "92.33%",
+    "uptime": "92.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "79.90%",
+    "uptimeYear": "79.62%",
     "time": 649,
-    "timeDay": 421,
-    "timeWeek": 445,
+    "timeDay": 724,
+    "timeWeek": 483,
     "timeMonth": 508,
-    "timeYear": 596,
+    "timeYear": 597,
     "dailyMinutesDown": {
-      "2023-08-28": 58,
+      "2023-08-29": 58,
+      "2023-08-28": 1440,
       "2023-08-27": 1440,
       "2023-08-26": 1440,
       "2023-08-25": 1440,
@@ -934,9 +935,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 543,
-    "timeDay": 490,
-    "timeWeek": 519,
-    "timeMonth": 561,
+    "timeDay": 558,
+    "timeWeek": 531,
+    "timeMonth": 554,
     "timeYear": 541,
     "dailyMinutesDown": {
       "2022-11-11": 121
@@ -948,18 +949,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pad.kohl.dev.ico",
     "slug": "etherpad-lite",
     "status": "down",
-    "uptime": "24.50%",
+    "uptime": "24.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 462,
-    "timeDay": 442,
-    "timeWeek": 410,
-    "timeMonth": 469,
-    "timeYear": 461,
+    "time": 463,
+    "timeDay": 717,
+    "timeWeek": 468,
+    "timeMonth": 476,
+    "timeYear": 462,
     "dailyMinutesDown": {
-      "2023-08-28": 58,
+      "2023-08-29": 58,
+      "2023-08-28": 1440,
       "2023-08-27": 1440,
       "2023-08-26": 1440,
       "2023-08-25": 1440,
@@ -1322,8 +1324,7 @@
       "2022-09-02": 1440,
       "2022-09-01": 1440,
       "2022-08-31": 1440,
-      "2022-08-30": 1440,
-      "2022-08-29": 1440
+      "2022-08-30": 1440
     }
   },
   {
@@ -1332,18 +1333,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/kroki.kohl.dev.ico",
     "slug": "kroki-api",
     "status": "down",
-    "uptime": "24.25%",
+    "uptime": "24.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 451,
-    "timeDay": 416,
-    "timeWeek": 406,
-    "timeMonth": 465,
-    "timeYear": 449,
+    "time": 452,
+    "timeDay": 521,
+    "timeWeek": 437,
+    "timeMonth": 466,
+    "timeYear": 450,
     "dailyMinutesDown": {
-      "2023-08-28": 58,
+      "2023-08-29": 58,
+      "2023-08-28": 1440,
       "2023-08-27": 1440,
       "2023-08-26": 1440,
       "2023-08-25": 1440,
@@ -1706,8 +1708,7 @@
       "2022-09-02": 1440,
       "2022-09-01": 1440,
       "2022-08-31": 1440,
-      "2022-08-30": 1440,
-      "2022-08-29": 1440
+      "2022-08-30": 1440
     }
   },
   {
@@ -1721,11 +1722,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1245,
-    "timeDay": 883,
-    "timeWeek": 990,
-    "timeMonth": 1038,
-    "timeYear": 1169,
+    "time": 1244,
+    "timeDay": 1435,
+    "timeWeek": 1055,
+    "timeMonth": 1042,
+    "timeYear": 1170,
     "dailyMinutesDown": {
       "2022-12-19": 19,
       "2022-11-11": 120
