@@ -4,9 +4,9 @@
     "url": "https://kohl.dev",
     "icon": "https://icons.duckduckgo.com/ip3/kohl.dev.ico",
     "slug": "kohl-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "58.34%",
+    "uptimeDay": "58.32%",
     "uptimeWeek": "94.05%",
     "uptimeMonth": "98.63%",
     "uptimeYear": "99.86%",
@@ -26,9 +26,9 @@
     "url": "https://blog.kohl.dev",
     "icon": "https://icons.duckduckgo.com/ip3/blog.kohl.dev.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -38,6 +38,7 @@
     "timeMonth": 552,
     "timeYear": 533,
     "dailyMinutesDown": {
+      "2023-09-01": 0,
       "2022-11-11": 123
     }
   },
@@ -46,9 +47,9 @@
     "url": "https://freshrss.kohl.dev",
     "icon": "https://icons.duckduckgo.com/ip3/freshrss.kohl.dev.ico",
     "slug": "fresh-rss",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -58,6 +59,7 @@
     "timeMonth": 536,
     "timeYear": 520,
     "dailyMinutesDown": {
+      "2023-09-01": 0,
       "2022-11-11": 123
     }
   },
@@ -78,7 +80,7 @@
     "timeMonth": 556,
     "timeYear": 512,
     "dailyMinutesDown": {
-      "2023-09-01": 472,
+      "2023-09-01": 532,
       "2023-08-31": 1440,
       "2023-08-30": 1440,
       "2023-08-29": 1440,
@@ -462,7 +464,7 @@
     "timeMonth": 509,
     "timeYear": 544,
     "dailyMinutesDown": {
-      "2023-09-01": 472,
+      "2023-09-01": 532,
       "2023-08-31": 1440,
       "2023-08-30": 1440,
       "2023-08-29": 1440,
@@ -839,14 +841,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "78.72%",
+    "uptimeYear": "78.71%",
     "time": 647,
     "timeDay": 545,
     "timeWeek": 494,
     "timeMonth": 510,
     "timeYear": 596,
     "dailyMinutesDown": {
-      "2023-09-01": 472,
+      "2023-09-01": 532,
       "2023-08-31": 1440,
       "2023-08-30": 1440,
       "2023-08-29": 1440,
@@ -933,9 +935,9 @@
     "url": "https://wiki.kohl.dev",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.kohl.dev.ico",
     "slug": "wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -945,6 +947,7 @@
     "timeMonth": 552,
     "timeYear": 541,
     "dailyMinutesDown": {
+      "2023-09-01": 0,
       "2022-11-11": 121
     }
   },
@@ -965,7 +968,7 @@
     "timeMonth": 475,
     "timeYear": 462,
     "dailyMinutesDown": {
-      "2023-09-01": 472,
+      "2023-09-01": 532,
       "2023-08-31": 1440,
       "2023-08-30": 1440,
       "2023-08-29": 1440,
@@ -1349,7 +1352,7 @@
     "timeMonth": 461,
     "timeYear": 450,
     "dailyMinutesDown": {
-      "2023-09-01": 472,
+      "2023-09-01": 532,
       "2023-08-31": 1440,
       "2023-08-30": 1440,
       "2023-08-29": 1440,
@@ -1721,9 +1724,9 @@
     "url": "https://links.kohl.dev",
     "icon": "https://icons.duckduckgo.com/ip3/links.kohl.dev.ico",
     "slug": "link-ace",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -1733,6 +1736,7 @@
     "timeMonth": 1034,
     "timeYear": 1168,
     "dailyMinutesDown": {
+      "2023-09-01": 0,
       "2022-12-19": 19,
       "2022-11-11": 120
     }
