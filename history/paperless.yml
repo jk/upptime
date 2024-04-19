@@ -1,7 +1,7 @@
 url: https://paperless.kohl.dev
-status: up
-code: 200
-responseTime: 555
-lastUpdated: 2024-04-19T00:10:33.503Z
+status: down
+code: 502
+responseTime: 503
+lastUpdated: 2024-04-19T15:34:50.114Z
 startTime: 2020-12-28T09:44:08.000Z
 generator: Upptime <https://github.com/upptime/upptime>
